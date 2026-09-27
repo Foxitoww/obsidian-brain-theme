@@ -2,7 +2,9 @@
 
 A dark Obsidian theme inspired by glowing neural networks: a holographic brain behind every note, and a web of lavender-blue neurons running around the frame.
 
-![Brain theme](screenshot.png)
+![Brain theme: a note with the holographic brain and the neural frame](screenshots/hero.png)
+
+![Brain theme: graph view](screenshots/graph.png)
 
 ## Features
 
